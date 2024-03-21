@@ -1,0 +1,151 @@
+FID,NEST_ID,Tree_Type,Species,Kits,Gender,Squirrel Weight (lb)
+0,N000,american elm,gray,4,F,2.3
+1,N001,american elm,gray,0,M,1.2
+2,N002,american elm,black,0,M,1.1
+3,N003,red maple,gray,0,F,0.8
+4,N004,red maple,gray,0,M,2.3
+5,N005,red maple,gray,0,M,0.5
+6,N006,american elm,gray,0,M,1.6
+7,N007,white oak,gray,0,M,1.7
+8,N008,white oak,gray,0,M,1.8
+9,N009,white oak,gray,0,F,1.1
+10,N010,white oak,gray,0,M,1.1
+11,N011,black cherry,gray,0,F,1.2
+12,N012,black cherry,gray,3,F,1.3
+13,N013,black cherry,gray,0,F,1.5
+14,N014,black cherry,gray,0,F,2.1
+15,N015,river birch,gray,0,F,0.9
+16,N016,pin oak,black,0,M,0.5
+17,N017,pin oak,gray,4,F,0.7
+18,N018,mockernut hickory,gray,0,F,0.6
+19,N019,mockernut hickory,gray,0,F,0.9
+20,N020,mockernut hickory,gray,0,F,1
+21,N021,red maple,gray,0,M,1
+22,N022,english oak,gray,0,M,1
+23,N023,american elm,black,0,M,2.1
+24,N024,red maple,gray,0,M,1.2
+25,N025,silver maple,gray,0,M,1.8
+26,N026,silver maple,black,0,F,1
+27,N027,white oak,black,0,F,1.2
+28,N028,river birch,black,0,M,1.5
+29,N029,sycamore,gray,0,F,1.7
+30,N030,sycamore,black,0,F,1.8
+31,N031,sycamore,black,0,F,1.2
+32,N032,tulip poplar,black,0,F,1.4
+33,N033,red maple,black,0,M,1.5
+34,N034,sycamore,black,3,F,1.8
+35,N035,sycamore,black,0,M,1.4
+36,N036,sycamore,black,0,M,1.8
+37,N037,black walnut,black,0,M,1.9
+38,N038,mockernut hickory,red,0,M,2.1
+39,N039,mockernut hickory,black,0,M,2.1
+40,N040,american beech,black,0,M,2.5
+41,N041,mockernut hickory,red,0,M,2.3
+42,N042,english oak,black,0,M,1.2
+43,N043,english oak,black,0,M,1.1
+44,N044,red maple,black,1,F,0.8
+45,N045,english oak,red,0,F,2.3
+46,N046,english oak,red,4,F,0.5
+47,N047,mockernut hickory,black,0,M,1.6
+48,N048,white oak,red,0,M,1.7
+49,N049,white oak,gray,0,M,1.8
+50,N050,silver maple,black,0,M,1.1
+51,N051,english oak,red,0,M,1.1
+52,N052,american beech,black,4,F,1.2
+53,N053,white oak,red,0,F,1.3
+54,N054,pin oak,black,0,M,1.5
+55,N055,silver maple,black,0,M,2.1
+56,N056,american elm,gray,0,F,0.9
+57,N057,silver maple,black,0,M,0.5
+58,N058,white oak,gray,0,M,0.7
+59,N059,white oak,gray,3,F,0.6
+60,N060,english oak,gray,0,M,0.9
+61,N061,english oak,black,0,M,1
+62,N062,english oak,gray,0,M,1
+63,N063,silver maple,black,0,M,1
+64,N064,pin oak,gray,0,M,2.1
+65,N065,silver maple,black,0,M,1.2
+66,N066,silver maple,black,2,F,1.8
+67,N067,black walnut,red,0,M,1
+68,N068,tulip poplar,black,3,F,1.2
+69,N069,english oak,red,0,F,1.5
+70,N070,white oak,red,0,M,1.7
+71,N071,white oak,red,4,F,1.8
+72,N072,blackjack oak,red,1,F,1.2
+73,N073,pin oak,red,2,F,1.4
+74,N074,black cherry,black,0,F,1.5
+75,N075,american beech,black,0,F,1.8
+76,N076,red maple,gray,0,M,1.4
+77,N077,sycamore,black,0,F,1.8
+78,N078,blackjack oak,black,4,F,1.9
+79,N079,pin oak,red,1,F,2.1
+80,N080,pin oak,red,0,F,2.1
+81,N081,american elm,black,0,M,2.5
+82,N082,american elm,gray,0,F,2.3
+83,N083,american elm,gray,2,F,1.2
+84,N084,black cherry,gray,1,F,1.1
+85,N085,white oak,gray,0,M,0.8
+86,N086,white oak,gray,0,M,2.3
+87,N087,american elm,black,0,F,0.5
+88,N088,american elm,gray,2,F,1.6
+89,N089,river birch,black,0,M,1.7
+90,N090,red maple,gray,0,M,1.8
+91,N091,red maple,gray,0,M,1.1
+92,N092,pin oak,black,0,M,1.1
+93,N093,red maple,gray,1,F,1.2
+94,N094,english oak,black,0,M,1.3
+95,N095,black walnut,black,0,F,1.5
+96,N096,tulip poplar,black,0,F,2.1
+97,N097,tulip poplar,black,4,F,0.9
+98,N098,black cherry,black,0,F,0.5
+99,N099,black cherry,gray,0,F,0.7
+100,N100,white oak,red,0,M,0.6
+101,N101,english oak,black,0,F,0.9
+102,N102,pin oak,gray,0,F,1
+103,N103,mockernut hickory,gray,2,F,1
+104,N104,american elm,gray,1,F,1
+105,N105,american elm,gray,0,M,2.1
+106,N106,black walnut,gray,0,F,1.2
+107,N107,american elm,black,0,M,1.8
+108,N108,pin oak,gray,0,M,1
+109,N109,pin oak,gray,0,M,1.2
+110,N110,pin oak,red,0,F,1.5
+111,N111,sycamore,gray,0,M,1.7
+112,N112,sycamore,gray,0,M,1.8
+113,N113,sycamore,black,2,F,1.2
+114,N114,sycamore,black,0,M,1.4
+115,N115,sycamore,black,0,M,1.5
+116,N116,red maple,black,0,M,1.8
+117,N117,red maple,black,0,M,1.4
+118,N118,black cherry,gray,0,F,1.8
+119,N119,black walnut,gray,0,F,1.9
+120,N120,black walnut,gray,3,F,2.1
+121,N121,english oak,red,0,M,2.1
+122,N122,pin oak,red,0,F,2.5
+123,N123,american beech,gray,0,F,2.7
+124,N124,american beech,black,0,M,2
+125,N125,american beech,gray,0,F,0.9
+126,N126,silver maple,black,0,M,0.8
+127,N127,silver maple,black,0,M,1.1
+128,N128,mockernut hickory,gray,0,M,1.2
+129,N129,mockernut hickory,gray,0,M,1.5
+130,N130,silver maple,black,0,M,2.4
+131,N131,english oak,gray,0,F,1.7
+132,N132,pin oak,black,0,F,1.8
+133,N133,pin oak,gray,0,F,1.2
+134,N134,sycamore,gray,3,F,1.4
+135,N135,sycamore,black,0,M,1.5
+136,N136,black walnut,black,0,M,1.8
+137,N137,black walnut,black,0,F,1.4
+138,N138,black walnut,gray,0,M,1.8
+139,N139,white oak,gray,4,F,1.9
+140,N140,white oak,gray,0,M,2.1
+141,N141,english oak,gray,0,F,2.1
+142,N142,english oak,gray,3,F,2.5
+143,N143,english oak,gray,0,M,2.7
+144,N144,black walnut,black,0,M,2
+145,N145,mockernut hickory,red,3,F,0.9
+146,N146,english oak,black,0,M,0.8
+147,N147,white oak,red,2,F,1.1
+148,N148,black walnut,red,0,F,1.2
+149,N149,english oak,black,0,M,1.5
